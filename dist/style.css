@@ -1,0 +1,205 @@
+.WhiteKey {
+  position: relative;
+  left: 50px;
+  top: 50px;
+  display: inline-flex;
+  margin-right: 1px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.BlackKey {
+  position: relative;
+  left: 50px;
+  top: 100px;
+  display: inline-flex;
+  margin-right: 27px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+
+#board {
+  position: absolute;
+  background-color: #0dbfc3;
+  width: 515px;
+  height: 260px;
+  border-radius: 5px;
+  border: 1px solid black
+}
+
+
+.monitor{
+  position: relative;
+  background-color: black;
+  width: 85px;
+  height: 32px;
+  border-radius: 5px;
+  color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 80px;
+  top: -7px
+}
+
+.selector{
+  position: relative;
+  background-color: black;
+  width: 62px;
+  height: 17px;
+  border-radius: 1px;
+  color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 176px;
+  top:-38.3px;
+  border: 1px solid rgb(135, 11, 11);
+}
+.shift_pos2 {
+  left: 0px;
+  top: -2px;
+  position: relative;
+}
+.shiftButton{
+  background-color: black;
+  border: 1px solid rgb(135, 11, 11);
+  width: 30.2px;
+  height: 22.5px;
+  border-radius: 0px;
+  position: relative;
+  top: -66px;
+  left: 178px;
+  display: inline-flex;
+  cursor: pointer;
+  color: white;
+  margin: -2px;
+}
+#shift_pos {
+  left: 10px;
+  top: -14px;
+  position: relative;
+}
+
+.voiceButton {
+  position: relative;
+  border: 1px solid rgb(58, 71, 220);
+  display: inline-flex;
+  cursor: pointer;
+  margin: 0px;
+}
+.voiceselector{
+  position: relative;
+  background-color: black;
+  width: 84.5px;
+  height: 28px;
+  border-radius: 1px;
+  color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 252.9px;
+  top: -57px;
+  border: 1px solid rgb(58, 71, 220);
+}
+.shift_pos3 {
+  left: 0px;
+  top: 0.7px;
+  position: relative;
+  font-size: 11px;
+}
+
+.onoff {
+  color: rgb(215, 204, 204);
+  width: 30px;
+  height: 20px;
+  border-radius: 5px;
+  border: 1px solid rgb(177, 172, 172);
+  background-color: #000000;
+  cursor: pointer;
+  margin: -1.9px;
+  position: relative;
+  top: 11px;
+  left: 11.5px;
+}
+
+
+
+.monitor_bpm{
+  position: relative;
+  background-color: black;
+  width: 55px;
+  height: 30px;
+  border-radius: 3px;
+  color: rgb(255, 0, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: -197px;
+  left: 390px
+}
+.btn {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #333;
+  background: #adacac;
+  color: #6a6767;
+  font-size: 10px;
+  cursor: pointer;
+  left: 449px;
+  top: -159px;
+  margin: -1px;
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid black;
+}
+.metButtons{
+  position: relative;
+  width: 40px;
+  height: 20px;
+  top: -120px;
+  left: 470px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  color:rgb(255, 255, 255);
+  background-color: rgb(16, 16, 16);
+  border: 1px solid rgb(57, 57, 58);
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.vol{
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: -222px;
+  left: 11px;
+  font-size: 7px;
+  color: black;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 2px;
+  background-color: rgb(236, 231, 231);
+}
+
+.bufButtons{
+  position: relative;
+  width: 40px;
+  height: 14.3px;
+  top: -227px;
+  left: 339px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  color:rgb(255, 255, 255);
+  background-color: black;
+  border: 1px solid rgb(47, 18, 211);
+  cursor: pointer;
+}
