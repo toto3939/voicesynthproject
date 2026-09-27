@@ -1,6 +1,14 @@
-# untitled
+# Synthesizer
 
-A Pen created on CodePen.
+A simple side-project browser synthesizer.
 
-Original URL: [https://codepen.io/toto39/pen/raxMBXo](https://codepen.io/toto39/pen/raxMBXo).
+⚠️ **Volume Warning**: Turn down your master volume before playing, especially if you are wearing headphones!
+
+## Features
+- **Synthesizer**: Basic waveforms (sine, triangle, square, sawtooth)
+- **Drum Kit**: Synthesized percussion
+- **Miku Voice**: Hatsune Miku vocal samples
+
+
+
 
