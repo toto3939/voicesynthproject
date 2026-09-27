@@ -9,6 +9,8 @@ A simple side-project browser synthesizer.
 - **Drum Kit**: Synthesized percussion
 - **Miku Voice**: Hatsune Miku vocal samples
 
-
+## Credits & Legal
+- Hatsune Miku is a character / voicebank created by **Crypton Future Media, Inc.**
+- This is an unofficial, non-commercial fan project created for educational and personal use only.
 
 
